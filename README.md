@@ -133,7 +133,3 @@ This project was kicked off with a single prompt to Claude Code:
 > - YouTube API key stored in .env.local
 > - Clean, modern SaaS look — not a developer prototype
 > - Deploy-ready on Vercel
-
----
-
-Built with [Claude Code](https://claude.ai/claude-code)
